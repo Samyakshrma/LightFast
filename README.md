@@ -1,0 +1,2 @@
+# LightFast
+For the hackathon
